@@ -1,2 +1,2 @@
 console.log('Hello');
-console.log('Bee!!');
+console.log('Bee and Co.!!');
